@@ -1,0 +1,142 @@
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\appsettings.Development.json
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\appsettings.json
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.exe
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.deps.json
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.runtimeconfig.json
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.pdb
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\Humanizer.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.csproj.AssemblyReference.cache
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfoInputs.cache
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfo.cs
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.csproj.CoreCompileInputs.cache
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.MvcApplicationPartsAssemblyInfo.cs
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.MvcApplicationPartsAssemblyInfo.cache
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.ToDoList.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.build.ToDoList.props
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ToDoList.props
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ToDoList.props
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\obj\Debug\net6.0\staticwebassets.build.json
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\obj\Debug\net6.0\staticwebassets.development.json
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\obj\Debug\net6.0\scopedcss\bundle\ToDoList.styles.css
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.csproj.CopyComplete
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\obj\Debug\net6.0\refint\ToDoList.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.pdb
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.genruntimeconfig.cache
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\obj\Debug\net6.0\ref\ToDoList.dll
+D:\MVN\BaiTap\SecondExercise\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\appsettings.Development.json
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\appsettings.json
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\ToDoList.exe
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\ToDoList.deps.json
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\ToDoList.runtimeconfig.json
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\ToDoList.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\ToDoList.pdb
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Humanizer.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\obj\Debug\net6.0\ToDoList.csproj.AssemblyReference.cache
+D:\MVN\BaiTap\New folder\API\ToDoList\obj\Debug\net6.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVN\BaiTap\New folder\API\ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfoInputs.cache
+D:\MVN\BaiTap\New folder\API\ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfo.cs
+D:\MVN\BaiTap\New folder\API\ToDoList\obj\Debug\net6.0\ToDoList.csproj.CoreCompileInputs.cache
+D:\MVN\BaiTap\New folder\API\ToDoList\obj\Debug\net6.0\ToDoList.MvcApplicationPartsAssemblyInfo.cs
+D:\MVN\BaiTap\New folder\API\ToDoList\obj\Debug\net6.0\ToDoList.MvcApplicationPartsAssemblyInfo.cache
+D:\MVN\BaiTap\New folder\API\ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.ToDoList.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MVN\BaiTap\New folder\API\ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.build.ToDoList.props
+D:\MVN\BaiTap\New folder\API\ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ToDoList.props
+D:\MVN\BaiTap\New folder\API\ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ToDoList.props
+D:\MVN\BaiTap\New folder\API\ToDoList\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MVN\BaiTap\New folder\API\ToDoList\obj\Debug\net6.0\staticwebassets.build.json
+D:\MVN\BaiTap\New folder\API\ToDoList\obj\Debug\net6.0\staticwebassets.development.json
+D:\MVN\BaiTap\New folder\API\ToDoList\obj\Debug\net6.0\scopedcss\bundle\ToDoList.styles.css
+D:\MVN\BaiTap\New folder\API\ToDoList\obj\Debug\net6.0\ToDoList.csproj.CopyComplete
+D:\MVN\BaiTap\New folder\API\ToDoList\obj\Debug\net6.0\ToDoList.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\obj\Debug\net6.0\refint\ToDoList.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\obj\Debug\net6.0\ToDoList.pdb
+D:\MVN\BaiTap\New folder\API\ToDoList\obj\Debug\net6.0\ToDoList.genruntimeconfig.cache
+D:\MVN\BaiTap\New folder\API\ToDoList\obj\Debug\net6.0\ref\ToDoList.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\AutoMapper.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Auth0.Core.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Auth0.ManagementApi.dll
+D:\MVN\BaiTap\New folder\API\ToDoList\bin\Debug\net6.0\Newtonsoft.Json.dll
